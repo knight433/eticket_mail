@@ -20,4 +20,3 @@ def printTicket(name,email,phone_number):
 
     ticket_no += 1     
 
-#printTicket("test_name","dhruvanu3@gmail.com","0123456789")

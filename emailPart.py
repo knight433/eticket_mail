@@ -5,8 +5,8 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.image import MIMEImage
 
 server = smtplib.SMTP('smtp.gmail.com', 587)
-user = '1rn21ai047.dhruva@gmail.com'
-password = 'wwubsvmtoxsjzvtm'
+user = ''
+password = ''
 
 message = MIMEMultipart()
 
